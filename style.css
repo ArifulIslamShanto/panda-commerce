@@ -1,0 +1,13 @@
+.categories img:hover{
+
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+#bags img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+#shoes img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
